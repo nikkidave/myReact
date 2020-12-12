@@ -12,3 +12,16 @@ a{
   color:#333;
   text-decoration: none;
 }
+.container{
+  padding: 0 1rem;
+}
+.submitBtn{
+  display: inline-block;
+  border: none;
+  color:blue;
+  padding: 7px 2px;
+  cursor: pointer;
+}
+.submitBtn:hover{
+  background:#666;
+}
